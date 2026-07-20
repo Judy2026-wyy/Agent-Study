@@ -7,5 +7,7 @@
   - Agent 上下文即记忆机制
   - Agent 可以多步推理，自我纠错
     
-
+- MCP 和 A2A的区别
+  - A2A负责Agent之间的通信写作
+  - MCP管的是Agent调用外部工具与服务
 
