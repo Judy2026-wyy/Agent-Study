@@ -125,8 +125,11 @@
 
 
 练习结果：
+**Base Sample**
 <img width="2147" height="2087" alt="image" src="https://github.com/user-attachments/assets/917f2d3e-b5f9-49da-a7d8-c329e44d8bed" />
 
-             
+**Search Tool Sample**
+<img width="2147" height="2087" alt="image" src="https://github.com/user-attachments/assets/bc373cc8-ebd6-4320-9587-b3c4cd4cd5f1" />
+
             
 
