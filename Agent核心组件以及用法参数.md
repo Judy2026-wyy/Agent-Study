@@ -124,6 +124,9 @@
 
 
 
+练习结果：
+<img width="2147" height="2087" alt="image" src="https://github.com/user-attachments/assets/917f2d3e-b5f9-49da-a7d8-c329e44d8bed" />
+
              
             
 
